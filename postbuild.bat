@@ -1,0 +1,2 @@
+del "C:\Program Files\TeamSpeak 3 Client\plugins\mmavipc.dll"
+copy "C:\Users\Maverick\Documents\Visual Studio 2010\Projects\arma3_ts3_plugin\x64\Debug\arma3_ts3_plugin.dll" "C:\Program Files\TeamSpeak 3 Client\plugins\mmavipc.dll"
